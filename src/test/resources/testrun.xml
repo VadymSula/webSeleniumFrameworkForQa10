@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="qa10 Framework from scratch">
+    <test name="testng lesson">
+        <classes>
+            <class name="MainFormTest"/>
+        </classes>
+    </test>
+</suite>
